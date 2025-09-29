@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Zakia Mushtaq
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Power+BI+Expert;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Microsoft+Office" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://github.com/zakia-mushtaq?tab=followers">
@@ -11,9 +11,9 @@
 </p>
 
 ## 💫 About Me
-<img align="right" height="350" src="https://github.com/zakia-mushtaq/zakia-mushtaq/blob/main/Zakia.jpg"/>
+<img align="right" height="450" src="https://raw.githubusercontent.com/zakiamushtaq5563-oss/zakiamushtaq5563-oss/refs/heads/main/coffee.jfif"/>
 
-I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Power BI and Microsoft Office, and enjoy teaching others about technology. My goal is to deliver high-quality solutions that meet user needs.
+I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Microsoft Office. My goal is to deliver high-quality solutions that meet user needs.
 
 My Journey Includes:
 - 🚀 Developed multiple projects using Python and its frameworks
