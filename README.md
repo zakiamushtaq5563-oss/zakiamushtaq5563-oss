@@ -11,7 +11,7 @@
 </p>
 
 ## 💫 About Me
-<img align="right" height="450" src="https://raw.githubusercontent.com/zakiamushtaq5563-oss/zakiamushtaq5563-oss/refs/heads/main/coffee.jfif"/>
+<img align="right" height="350" src="https://raw.githubusercontent.com/zakiamushtaq5563-oss/zakiamushtaq5563-oss/refs/heads/main/coffee.jfif"/>
 
 I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Microsoft Office. My goal is to deliver high-quality solutions that meet user needs.
 
