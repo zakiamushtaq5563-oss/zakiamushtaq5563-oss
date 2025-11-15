@@ -13,7 +13,11 @@
 ## 💫 About Me
 <img align="right" height="350" src="https://raw.githubusercontent.com/zakiamushtaq5563-oss/zakiamushtaq5563-oss/refs/heads/main/coffee.jfif"/>
 
-I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Microsoft Office. My goal is to deliver high-quality solutions that meet user needs.
+Python Developer | Frontend & Backend Developer | UX/UI Designer | Figma Expert | Microsoft Office Specialist | Digital Artist
+
+I build scalable backend systems, clean frontend interfaces, and intuitive user experiences.
+I design modern UI/UX in Figma, create professional PowerPoint/Word assets, and develop end-to-end solutions that look good and work efficiently.
+My focus is on clean code, practical design, and delivering results that users actually value.
 
 My Journey Includes:
 - 🚀 Developed multiple projects using Python and its frameworks
